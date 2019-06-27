@@ -1,0 +1,35 @@
+.previous-button{
+    float: left;
+}
+.next-button{
+    float: right;
+}
+/*button{
+    background-color: #173252;
+    color:white;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    font-size: 30px;
+    border: 1px solid black;
+}*/
+a{
+    background-color:transparent/* #173252*/;
+    color:white;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    font-size: 30px;
+    border: 1px  solid white;
+    width:40px; 
+    text-align: center;
+       
+}
+a:hover{
+    color:aqua;
+    cursor: pointer;
+    font-size: 31px;
+    width:41px;
+}
