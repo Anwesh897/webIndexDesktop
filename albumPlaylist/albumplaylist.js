@@ -9,7 +9,7 @@ for(i=0;i<trackList.length;i++){
 }
 var showImage = document.getElementById('id02');
 showImage.style.display = 'block';
-document.getElementById('id02').src='C:/Users/home/Documents/c drive/Documents/webindex/carousel image/Batman Begins.jpg';
+document.getElementById('id02').src='/Users/akashkorram/Documents/webIndexDesktop/webIndexDesktop/carousel image/Batman Begins.jpg';
 }batmanBegins();
 
 function blackPanther(){  
@@ -23,7 +23,7 @@ for(i=0;i<trackList.length;i++){
 }
 var showImage = document.getElementById('id02');
 showImage.style.display = 'block';
-document.getElementById('id02').src='C:/Users/home/Documents/c drive/Documents/webindex/carousel image/Black Panther.jpg';
+document.getElementById('id02').src='/Users/akashkorram/Documents/webIndexDesktop/webIndexDesktop/carousel image/Black Panther.jpg';
     
 }blackPanther();
 
@@ -40,7 +40,7 @@ for(i=0;i<trackList.length;i++){
 }
 var showImage = document.getElementById('id02');
 showImage.style.display = 'block';
-document.getElementById('id02').src='C:/Users/home/Documents/c drive/Documents/webindex/carousel image/Blade Runner 2049.jpg';
+document.getElementById('id02').src='/Users/akashkorram/Documents/webIndexDesktop/webIndexDesktop/carousel image/Blade Runner 2049.jpg';
         
 }bladeRunner();
 

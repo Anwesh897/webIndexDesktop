@@ -1,0 +1,41 @@
+/*#leftbar{
+    width:25%;
+    height:100%;
+    top:0;
+    position: fixed;
+    float: left;
+    background:linear-gradient(to top,white,indigo,white);
+}*/
+body{
+    margin:0;
+}
+.column{
+    float: left;
+    height:100%;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
+    overflow: auto;
+}
+.image{
+    width:32.2%;/*32.1%*/
+    height: 100%;
+    float: left;
+    padding:5px;
+    cursor: pointer;
+    overflow: hidden;
+}
+img{
+    height: 50%;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
+    overflow: auto;
+}
+.col-1{
+    width:15%;
+}
+.col-2{
+    width:65%;
+}
+.col-3{
+    width:20%;
+}
